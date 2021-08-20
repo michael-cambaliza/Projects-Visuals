@@ -1,0 +1,2 @@
+The link below will give you access to a vendor predictor application I created with R and shiny. The goal was to create a tool using preditive analytics to help ease the process for genentech scientists when selecting what vendors they should use when they are using certain variables in their biomarker work.
+(https://ucsbbaseball.shinyapps.io/MyApp/?_ga=2.164059775.1978609609.1629424835-1308602783.1629424835)
